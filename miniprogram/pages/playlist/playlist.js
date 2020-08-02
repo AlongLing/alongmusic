@@ -76,7 +76,7 @@ Page({
 
   },
 
-  _getPlaylist:  function() {
+  _getPlaylist: function() {
     wx.showLoading({
       title: '加载中',
     })
